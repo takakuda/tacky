@@ -1,0 +1,19 @@
+current directory: /Users/kei/takakuda/tacky/vendor/bundle/ruby/2.4.0/gems/byebug-9.1.0/ext/byebug
+/Users/kei/.rbenv/versions/2.4.0/bin/ruby -r ./siteconf20171108-87662-196qbpa.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kei/takakuda/tacky/vendor/bundle/ruby/2.4.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/kei/takakuda/tacky/vendor/bundle/ruby/2.4.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/kei/takakuda/tacky/vendor/bundle/ruby/2.4.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20171108-87662-1cy6u35/byebug
